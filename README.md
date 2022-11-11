@@ -1,2 +1,2 @@
-# 3rdParty
-Third party softwares
+# GSecurity
+Security script
